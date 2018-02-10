@@ -1,3 +1,5 @@
+zmiana 2
+
 .PHONY: test
 
 deps:
